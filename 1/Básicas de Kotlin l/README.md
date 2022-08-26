@@ -8,7 +8,7 @@ Usar Null Safety para proteger tu código de NullPointerExceptions.
 
 ### Contenido de la sesión
 
-Temas que se abordan el primera sesion de este fase 1 del entrenamiento"
+Temas que se abordan en la primera sesion de este fase 1 del entrenamiento
 - Declaración de variables
 - Condicionales
 - Funciones
