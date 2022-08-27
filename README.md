@@ -1,7 +1,7 @@
 # Digital Skills Accelerator Training - Mobile Android
 
 # I. Bienvenida
-Bienvenido a tu capacitación de Mobile IOS la cual consta de 6 semanas de entrenamiento.
+Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de entrenamiento.
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
@@ -27,35 +27,54 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1 - Fundamentals
-   1. [Historia de la web]([pre-curso/modulo_1/sesion_1.1](https://github.com/wizelineacademy/web-development-bootcamp-course/tree/main/pre-curso/modulo_1/sesion_1.1)) poner un branch de este main con el material del tema de cada dia.
-   2. [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
-   3. [Frontend](pre-curso/modulo_1/sesion_1.3)
+   1. [Básicos de Kotlin I](/1/Básicas%20de%20Kotlin%20l)
+   2. [Básicos de Kotlin II](/1/B%C3%A1sicos%20de%20Kotlin%20II)
+   3. [Básicos de Kotlin III](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
 
-### Semana 2 - 
+### Semana 2 
+   1. [Programación Orientada a Objetos I]()
+   2. [Programación Orientada a Objetos II]()
+   3. [Programación Orientada a Objetos III]()
 
-### Semana 3 - 
+### Semana 3
+   1. [Introducción a Android Studio]()
+   2. [Git y Polimorfismo]()
+   3. [Principios SOLID]()
 
 ### Semana 4 - 
+   1. [Consumo de Servicios con Retrofit]()
+   2. [Mobile App Design: MVVM]()
+   3. [Viewbinding vs Databinding]()
 
-### Semana 5 - 
+### Semana 5
+   1. [Kotlin Coroutines I]()
+   2. [Kotlin Coroutines II]()
+   3. [Kotlin Coroutines III]()
 
-### Semana 6 -
+### Semana 6
+   1. [Jetpack Compose I]()
+   2. [Jetpack Compose II]()
+   3. [Jetpack Compose III]()
+
 
 # IV. Proyecto Final (Capstone Project)
 **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
-Aqui encontrarás las instrucciones para completar tu Projecto final.
+[Aqui encontrarás]((https://github.com/wizelineacademy/baz-android-course)) las instrucciones para completar tu proyecto final.
 
 # V. Agenda tu mentoria
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 - Selecciona la liga de abajo de cualquiera de los mentores
 
-- Mentor 1
-- Mentor 2
-- Mentor 3
-- Mentor 4
-- Mentor 5
+- [Diego Parra Robayo]()
+- [Fabian Jiménez Villegas]()
+- [Antonio Lopez Higuera]()
+- [Diego Medina Padilla]()
+- [Juana Cecilia Dávila Barajas]()
+- [Mario Salas Cardenas]()
+- [Alfredo Arrieta]()
+
 
 # VI. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
