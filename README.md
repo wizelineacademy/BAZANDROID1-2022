@@ -26,7 +26,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ## :bookmark_tabs: Sesiones
 
-### Semana 1 - Fundamentals
+### Semana 1
    1. [Básicos de Kotlin I](/1/Básicas%20de%20Kotlin%20l)
    2. [Básicos de Kotlin II](/1/B%C3%A1sicos%20de%20Kotlin%20II)
    3. [Básicos de Kotlin III](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
@@ -41,7 +41,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    2. [Git y Polimorfismo]()
    3. [Principios SOLID]()
 
-### Semana 4 - 
+### Semana 4
    1. [Consumo de Servicios con Retrofit]()
    2. [Mobile App Design: MVVM]()
    3. [Viewbinding vs Databinding]()
