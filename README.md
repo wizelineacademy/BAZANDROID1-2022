@@ -42,9 +42,9 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Principios SOLID]()
 
 ### Semana 4
-   1. [Consumo de Servicios con Retrofit]()
-   2. [Mobile App Design: MVVM]()
-   3. [Viewbinding vs Databinding]()
+   1. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
+   2. [Mobile App Design: MVVM](/4/MVVM)
+   3. [Viewbinding vs Databinding](/4/ViewBindingVsDataBinding)
 
 ### Semana 5
    1. [Kotlin Coroutines I]()
