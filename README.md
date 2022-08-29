@@ -68,13 +68,13 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 
-- [Diego Parra Robayo]()
-- [Fabian Jiménez Villegas]()
-- [Antonio Lopez Higuera]()
-- [Diego Medina Padilla]()
-- [Juana Cecilia Dávila Barajas]()
-- [Mario Salas Cardenas]()
-- [Alfredo Arrieta]()
+- [Diego Parra Robayo]
+- [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
+- [Antonio Lopez Higuera]
+- [Diego Medina Padilla]
+- [Juana Cecilia Dávila Barajas]
+- [Mario Salas Cardenas]
+- [Alfredo Arrieta]
 
 
 # VI. Contacto Wizeline Academy
