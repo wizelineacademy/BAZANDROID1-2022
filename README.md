@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos: 
 
-**[Calendario](https://drive.google.com/file/d/1ILakAK6EwJHuqt89HVjUQbmUF8JJohNB/view?usp=sharing)
+[Calendario](https://drive.google.com/file/d/1ILakAK6EwJHuqt89HVjUQbmUF8JJohNB/view?usp=sharing)
 
 **Sesiones en Vivo** 
 - Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
