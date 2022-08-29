@@ -32,14 +32,14 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Básicos de Kotlin III](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
 
 ### Semana 2 
-   1. [Programación Orientada a Objetos I]()
-   2. [Programación Orientada a Objetos II]()
-   3. [Programación Orientada a Objetos III]()
+   1. [Programación Orientada a Objetos I](/2/Programacion_Orientada_a_Objetos_1)
+   2. [Programación Orientada a Objetos II](/2/Programacion_Orientada_a_Objetos_2)
+   3. [Programación Orientada a Objetos III](/2/Programacion_Orientada_a_Objetos_3)
 
 ### Semana 3
-   1. [Introducción a Android Studio]()
-   2. [Git y Polimorfismo]()
-   3. [Principios SOLID]()
+   1. [Introducción a Android Studio](/3/Android%20Studio)
+   2. [Git y Polimorfismo](/3/Manejo%20de%20Git)
+   3. [Principios SOLID](/3/Principios%20SOLID)
 
 ### Semana 4
    1. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
@@ -47,14 +47,14 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Viewbinding vs Databinding](/4/ViewBindingVsDataBinding)
 
 ### Semana 5
-   1. [Kotlin Coroutines I]()
-   2. [Kotlin Coroutines II]()
-   3. [Kotlin Coroutines III]()
+   1. [Kotlin Coroutines I](/5/Kotlin%20coroutines%20I)
+   2. [Kotlin Coroutines II](/5/Kotlin%20coroutines%20II)
+   3. [Kotlin Coroutines III](/5/Kotlin%20coroutines%20III)
 
 ### Semana 6
-   1. [Jetpack Compose I]()
-   2. [Jetpack Compose II]()
-   3. [Jetpack Compose III]()
+   1. [Jetpack Compose I](/6/Jetpack%20Compose%20I)
+   2. [Jetpack Compose II](/6/Jetpack%20Compose%20II)
+   3. [Jetpack Compose III](/6/Jetpack%20Compose%20III)
 
 
 # IV. Proyecto Final (Capstone Project)
