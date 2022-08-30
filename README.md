@@ -63,7 +63,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    2. [Jetpack Compose II](/6/Jetpack%20Compose%20II)
    3. [Jetpack Compose III](/6/Jetpack%20Compose%20III)
 
-## Grabaciones sesiones
+## 📺 Grabaciones sesiones
 
 ### Semana 1 -
 
