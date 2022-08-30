@@ -76,7 +76,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo 
 
-[Aqui encontrarás]((https://github.com/wizelineacademy/baz-android-course)) las instrucciones para completar tu proyecto final.
+[Aqui encontrarás](https://github.com/wizelineacademy/baz-android-course) las instrucciones para completar tu proyecto final.
 
 
 
