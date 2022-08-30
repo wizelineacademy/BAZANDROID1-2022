@@ -89,7 +89,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Diego Medina Padilla](https://calendly.com/diego-medina-2/baz-mentoria-1-1)
 - [Juana Cecilia Dávila Barajas](https://calendly.com/juana-cecilia-davila/baz-mentoria-1-1)
 - [Mario Salas Cardenas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
-- [Alfredo Arrieta]
+- [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1)
 
 
 # VI. Contacto Wizeline Academy
