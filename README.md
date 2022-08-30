@@ -80,7 +80,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 
 
-# V. Agenda tu mentoria
+# V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
