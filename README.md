@@ -79,6 +79,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 [Aqui encontrarás]((https://github.com/wizelineacademy/baz-android-course)) las instrucciones para completar tu proyecto final.
 
 
+
 # V. Agenda tu mentoria
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
 
