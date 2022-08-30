@@ -85,10 +85,10 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 
 - [Diego Parra Robayo]
 - [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
-- [Antonio Lopez Higuera]
-- [Diego Medina Padilla]
-- [Juana Cecilia Dávila Barajas]
-- [Mario Salas Cardenas]
+- [Antonio Lopez Higuera](https://calendly.com/an-lopez/mentoria-1-1)
+- [Diego Medina Padilla](https://calendly.com/diego-medina-2/baz-mentoria-1-1)
+- [Juana Cecilia Dávila Barajas](https://calendly.com/juana-cecilia-davila/baz-mentoria-1-1)
+- [Mario Salas Cardenas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
 - [Alfredo Arrieta]
 
 
