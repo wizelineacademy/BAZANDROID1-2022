@@ -85,7 +85,7 @@ Si deseas una tener una mentoria personalizada en línea con alguno de los mento
 
 Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendario con la disponibilidad por dia y horarios. Elige el que mejor se acomode a tu necesidad.
 
-- [Diego Parra Robayo]
+- [Diego Parra Robayo](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)
 - [Fabian Jiménez Villegas](https://calendly.com/fabian_jimenez)
 - [Antonio Lopez Higuera](https://calendly.com/an-lopez/mentoria-1-1)
 - [Diego Medina Padilla](https://calendly.com/diego-medina-2/baz-mentoria-1-1)
