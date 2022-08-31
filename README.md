@@ -46,7 +46,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ### Semana 3
    1. [Introducción a Android Studio](/3/Android%20Studio)
    2. [Git y Polimorfismo](/3/Manejo%20de%20Git)
-   3. [Principios SOLID](/3/Principios%20SOLID)
+   3. [Principios SOLID](/3/Principios%20SOLID%20)
 
 ### Semana 4
    1. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
