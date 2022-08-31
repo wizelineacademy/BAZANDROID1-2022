@@ -99,12 +99,10 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
 - **BAZ SUPERAPP**: En este [documento](https://docs.google.com/spreadsheets/d/1s5AqSzC3n0YEgiJry5rCa152tEzda5TJtMzM9VEfJ4U/edit?usp=sharing) encontrarás la información sobre el proyecto asignado según tu gremio y líder de gremio.
+- **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
 
 # VII. Contacto Wizeline Academy
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
-
-
-
