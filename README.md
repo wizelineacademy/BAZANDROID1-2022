@@ -65,11 +65,13 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ## 📺 Grabaciones sesiones
 
-### Semana 1 -
+### Semana 1
+- [Martes 30 Agosto|"Introducción a Swift"](https://drive.google.com/file/d/1rdcJmIOvH5koUpASDvc8yK1ngJRIimrP/view?usp=sharing)
 
 ## Presentaciones sesiones
 
-### Semana 1 -
+### Semana 1
+- [Martes 30 Agosto|"Introducción a Swift](https://drive.google.com/file/d/1wjF9k6weNs7a_TxiOM2S6c_UYYFx4g6z/view?usp=sharing)
 
 
 # IV. Proyecto Final (Capstone Project)
