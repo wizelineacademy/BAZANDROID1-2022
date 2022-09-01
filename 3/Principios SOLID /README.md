@@ -19,7 +19,7 @@ Temas que se abordan en la primera sesion de este fase 1 del entrenamiento
 
 # :books: Para aprender mas 
 
-## :tv: [Enlace de la presentación](https://docs.google.com/presentation/d/1GUSQgYsvAnyd71G4Xs7UV-UqUEt6x8Y-JE679bMpegM/edit?usp=sharing)
+## :tv: [Enlace de la presentación](https://drive.google.com/file/d/1GczrL7FrYsy-M7pC_MXv1eWjd8fcNp-P/view?usp=sharing)
 
 # :computer:  Actividades 
 
