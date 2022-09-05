@@ -5,7 +5,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 30 Ago - Kotlin basics I](https://drive.google.com/file/d/1-UXAOqdHNJYyd6G69zTV43afh0Af7nTk/view?usp=sharing)
 - 📺 [Grabacion Martes 30 Ago](https://drive.google.com/file/d/1x75tj-x48AgSRSu267FwMgBNDjje6oO2/view?usp=sharing)
 - [Jueves 1 Sep - Kotlin basics II](https://drive.google.com/file/d/1kkBdHg_pdvbl1xGZICoqzIseW8OvDVQE/view?usp=sharing)
-- 📺 [Grabacion Jueves 1 Sep]
+- 📺 [Grabacion Jueves 1 Sep](https://drive.google.com/file/d/1c4iBUGczuTlr_85_2QWgmBIc9-FQajgF/view?usp=sharing)
 - [Viernes 2 Sep - Kotlin basics III](https://drive.google.com/file/d/1skVCgZsXA_PzUTARKmYQb4BWXr3eOmkt/view?usp=sharing)
 - 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1ZG_mqpjHtqwXp7F7eSyqOUuNus_wnHsQ/view?usp=sharing)
 
