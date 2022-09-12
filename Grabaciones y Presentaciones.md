@@ -15,7 +15,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 8 Sep - Object oriented programming II]
 - 📺 [Grabacion Jueves 8 Sep](https://drive.google.com/file/d/1-UO-eam0h_Ee2dJN-OB0DvLoFDUly63W/view?usp=sharing)
 - [Viernes 9 Sep - Object oriented programming III]
-- 📺 [Grabacion Viernes 9 Sep]
+- 📺 [Grabacion Viernes 9 Sep](https://drive.google.com/file/d/1ferZs8k4vTJIz8Kox0j1QAD1Lq2UKCfa/view?usp=sharing)
 
 # Semana 3
 - [Martes 13 Sep - Principios SOLID]
