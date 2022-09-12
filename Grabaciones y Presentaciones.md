@@ -10,11 +10,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabacion Viernes 2 Sep](https://drive.google.com/file/d/1ZG_mqpjHtqwXp7F7eSyqOUuNus_wnHsQ/view?usp=sharing)
 
 # Semana 2
-- [Martes 6 Sep - Object oriented programming I]
+- [Martes 6 Sep - Object oriented programming I](https://drive.google.com/file/d/1h4O5OFY363GgJ579aUh7BlCyydGthq-u/view?usp=sharing)
 - 📺 [Grabacion Martes 6 Sep](https://drive.google.com/file/d/1uvG4RpTg23q-UFmR7BACmHoAujVGTPYO/view?usp=sharing)
-- [Jueves 8 Sep - Object oriented programming II]
+- [Jueves 8 Sep - Object oriented programming II](https://drive.google.com/file/d/1OGRK2SJ-IOJPiLRcuyybA3lKoSquqQdC/view?usp=sharing)
 - 📺 [Grabacion Jueves 8 Sep](https://drive.google.com/file/d/1-UO-eam0h_Ee2dJN-OB0DvLoFDUly63W/view?usp=sharing)
-- [Viernes 9 Sep - Object oriented programming III]
+- [Viernes 9 Sep - Object oriented programming III](https://drive.google.com/file/d/1j-zhLdXNegl7UyqnwQW0yQyY3mQl538q/view?usp=sharing)
 - 📺 [Grabacion Viernes 9 Sep](https://drive.google.com/file/d/1ferZs8k4vTJIz8Kox0j1QAD1Lq2UKCfa/view?usp=sharing)
 
 # Semana 3
