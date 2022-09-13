@@ -1,3 +1,7 @@
+#Presentación
+
+[Presentación de Retrofit](https://docs.google.com/presentation/d/1hpJuGmgkLIHIBdDUpMWwR1tBm6Si7aVPUOOsSZyCHOA/edit?usp=sharing)
+
 # Retrofit
 Ejecución de llamadas a un servicio HTTP REST haciendo uso de la librería Retrofit
 
