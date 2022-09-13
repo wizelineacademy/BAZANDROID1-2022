@@ -1,7 +1,3 @@
-# Presentación
-
-[Presentación de Retrofit](https://docs.google.com/presentation/d/1hpJuGmgkLIHIBdDUpMWwR1tBm6Si7aVPUOOsSZyCHOA/edit?usp=sharing)
-
 # Retrofit
 Ejecución de llamadas a un servicio HTTP REST haciendo uso de la librería Retrofit
 
@@ -10,6 +6,9 @@ Contenido de la sesión
 - Consumo de Servicios básico
 - Consumo de Servicios con RxJava
 - Consumo de Servicios con Coroutines
+
+# Presentación
+[Presentación de Retrofit](https://docs.google.com/presentation/d/1hpJuGmgkLIHIBdDUpMWwR1tBm6Si7aVPUOOsSZyCHOA/edit?usp=sharing)
 
 # :tv:  Video
 
