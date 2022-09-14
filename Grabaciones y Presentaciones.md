@@ -19,7 +19,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Martes 13 Sep - Principios SOLID]
-- 📺 [Grabacion Martes 13 Sep]
+- 📺 [Grabacion Martes 13 Sep](https://drive.google.com/file/d/1wboPIxxtArmWX945IUKTzdbQflL_ZIof/view?usp=sharing)
 - [Jueves 15 Sep - Manejo de Git]
 - 📺 [Grabacion Jueves 15 Sep]
 
