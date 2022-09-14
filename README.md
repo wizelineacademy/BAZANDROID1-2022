@@ -74,6 +74,9 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 [Aqui encontrarás](https://github.com/wizelineacademy/baz-android-course) las instrucciones para completar tu proyecto final.
 
+Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+
+![Asignacion Mentores](https://user-images.githubusercontent.com/89619437/190257193-e0057a76-49b2-4f5a-81fb-13e6165f46a3.png)
 
 
 # V. Agenda tu mentoria 📆
