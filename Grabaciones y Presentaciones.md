@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 13 Sep - Principios SOLID](https://drive.google.com/file/d/1r00FQfWRpD3Tns26tVZAAS9OW9Tx6GLY/view?usp=sharing)
 - 📺 [Grabacion Martes 13 Sep](https://drive.google.com/file/d/1wboPIxxtArmWX945IUKTzdbQflL_ZIof/view?usp=sharing)
 - [Jueves 15 Sep - Manejo de Git](https://drive.google.com/file/d/1v3RX8ONeaVB2seouMqJuQhvh6dAOn_1U/view?usp=sharing)
-- 📺 [Grabacion Jueves 15 Sep]
+- 📺 [Grabacion Jueves 15 Sep](https://drive.google.com/file/d/1DKXZfCAUftPHGTE58IaDJPCInVLN85Un/view?usp=sharing)
 
 
 # Semana 4
