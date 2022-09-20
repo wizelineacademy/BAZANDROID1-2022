@@ -79,7 +79,14 @@ Para la revisión de tu Capstone Project se te asignó un mentor, el cual te dar
 ![Asignacion Mentores](https://user-images.githubusercontent.com/89619437/190257193-e0057a76-49b2-4f5a-81fb-13e6165f46a3.png)
 
 Correos electrónicos
-- [Antonio Lopez Higuera](antonio.lopez@wizeline.com)
+- Antonio Lopez Higuera / antonio.lopez@wizeline.com
+- Diego Parra Robayo / diego.parra@wizeline.com
+- Fabian Jiménez Villegas / fabian.jimenez@wizeline.com
+- Diego Medina Padilla / diego.medina@wizeline.com
+- Cecilia Dávila Barajas / juana.davila@wizeline.com
+- Mario Salas Cardenas / luis.salas@wizeline.com
+- Alfredo Arrieta / alfredo.arrieta@wizeline.com
+- Edgar Correa / edgar.correa@wizeline.com
 
 # V. Agenda tu mentoria 📆
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, sigue estas instrucciones:
