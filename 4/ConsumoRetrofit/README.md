@@ -8,7 +8,9 @@ Contenido de la sesión
 - Consumo de Servicios con Coroutines
 
 # Presentación
+
 [Presentación de Retrofit](https://docs.google.com/presentation/d/1hpJuGmgkLIHIBdDUpMWwR1tBm6Si7aVPUOOsSZyCHOA/edit?usp=sharing)
+[Proyecto de Prueba](https://github.com/an-lopez/retrofit-examples)
 
 # :tv:  Video
 
