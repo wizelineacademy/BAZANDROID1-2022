@@ -100,7 +100,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Juana Cecilia Dávila Barajas](https://calendly.com/juana-cecilia-davila/baz-mentoria-1-1)
 - [Mario Salas Cardenas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)
 - [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1)
-
+- [Edgar Correa](https://calendly.com/edgar-correa/baz-mentoria-1-1)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
