@@ -25,11 +25,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 
 # Semana 4
-- [Martes 20 Sep - Consumo de Servicios con Retrofit]
+- [Martes 20 Sep - Consumo de Servicios con Retrofit](https://drive.google.com/file/d/1BAys0cdofwmBocXCda85x3NaLgYpURLV/view?usp=sharing)
 - 📺 [Grabacion Martes 20 Sep](https://drive.google.com/file/d/1P63tM6VQAPC4FAQRJlt6jlNIdhJ2Sgzu/view?usp=sharing)
-- [Jueves 22 Sep - Mobile App Design: MVVM]
+- [Jueves 22 Sep - Mobile App Design: MVVM](https://drive.google.com/file/d/1V1dEJkYqrR6W-wN3fNFQnMiRffv4Ch5r/view?usp=sharing)
 - 📺 [Grabacion Jueves 22 Sep]
-- [Viernes 23 Sep - Viewbinding vs Databinding]
+- [Viernes 23 Sep - Viewbinding vs Databinding](https://drive.google.com/file/d/1mGzv4TEcZkFtrW-dc19p2vgXdb9ZiTa2/view?usp=sharing)
 - 📺 [Viernes 23 Sep]
 
 # Semana 5
