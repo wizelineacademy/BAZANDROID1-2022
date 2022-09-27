@@ -2,6 +2,7 @@
 
 # Coroutines I
 
+[Demo Corrutinas 1] (https://github.com/ECorreaWize/DemoCorrutinas)
 
 ### Contenido de la sesión
 
@@ -11,7 +12,7 @@ Temas que se abordarán en la primera sesión de Coroutines
 - Suspend functions
 
 
-# :tv:  [Enlace de la presentación](#)
+# :tv:  [Enlace de la presentación](https://docs.google.com/presentation/d/1kXXfvRZWD6MKgDJWeRLO23vIvr1rX7pTInhc2KmEppo/edit?usp=sharing)
 
 # :computer:  Actividades 
 Practica los siguientes ejercicios para reforzar lo aprendido en la sesión:
@@ -23,4 +24,4 @@ Practica los siguientes ejercicios para reforzar lo aprendido en la sesión:
 
 -[@CeciliaDávila](https://github.com/cecydb11-wizeline)
 
--[@EdgarCorrea](https://github.com)
+-[@EdgarCorrea](https://github.com/ECorreaWize)
