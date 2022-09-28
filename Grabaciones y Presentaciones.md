@@ -33,11 +33,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Viernes 23 Sep]/https://drive.google.com/file/d/1Ekzdzpo4g4U5n8X2cIAl9zEOXzuLuEVL/view?usp=sharing)
 
 # Semana 5
-- [Martes 27 Sep - Kotlin coroutines I]
+- [Martes 27 Sep - Kotlin coroutines I](https://drive.google.com/file/d/10AW3qPCgr5mJXm0mMrN81-DtpW-W5NVO/view?usp=sharing)
 - 📺 [Grabacion Martes 27 Sep]
-- [Jueves 29 Sep - Kotlin coroutines II]
+- [Jueves 29 Sep - Kotlin coroutines II](https://drive.google.com/drive/u/0/folders/1cs9DVdj_okkXLvaBLPKrpo6BAPWjAN3t)
 - 📺 [Grabacion Jueves 29 Sep]
-- [Viernes 30 Sep - Kotlin coroutines III]
+- [Viernes 30 Sep - Kotlin coroutines III](https://drive.google.com/file/d/1TbWe8D-wFuHAlJsg1V5ZPoR0eH9hqlQg/view?usp=sharing)
 - 📺 [Viernes 30 Sep]
 
 # Semana 6
