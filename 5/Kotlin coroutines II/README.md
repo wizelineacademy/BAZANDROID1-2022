@@ -2,6 +2,7 @@
 
 # Coroutines II
 
+[Demo Corrutinas II](https://github.com/ECorreaWize/DemoCorrutinas2)
 
 ### Contenido de la sesión
 
@@ -11,7 +12,7 @@ Temas que se abordarán en la segunda sesión de Coroutines
 - Live Data Builder
 
 
-# :tv:  [Enlace de la presentación](#)
+# :tv:  [Enlace de la presentación](https://docs.google.com/presentation/d/1D5kzOH2PvbGqODRDa9L982Mbsza_fdPkUFFZYKkjlzM/edit?usp=sharing)
 
 # :computer:  Actividades 
 Practica los siguientes ejercicios para reforzar lo aprendido en la sesión:
@@ -23,4 +24,4 @@ Practica los siguientes ejercicios para reforzar lo aprendido en la sesión:
 
 -[@CeciliaDávila](https://github.com/cecydb11-wizeline)
 
--[@EdgarCorrea](https://github.com)
+-[@EdgarCorrea](https://github.com/ECorreaWize)
