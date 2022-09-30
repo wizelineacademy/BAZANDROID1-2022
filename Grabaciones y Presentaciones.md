@@ -28,13 +28,13 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Martes 20 Sep - Consumo de Servicios con Retrofit](https://drive.google.com/file/d/1BAys0cdofwmBocXCda85x3NaLgYpURLV/view?usp=sharing)
 - 📺 [Grabacion Martes 20 Sep](https://drive.google.com/file/d/1P63tM6VQAPC4FAQRJlt6jlNIdhJ2Sgzu/view?usp=sharing)
 - [Jueves 22 Sep - Mobile App Design: MVVM](https://drive.google.com/file/d/1V1dEJkYqrR6W-wN3fNFQnMiRffv4Ch5r/view?usp=sharing)
-- 📺 [Grabacion Jueves 22 Sep]
+- 📺 [Grabacion Jueves 22 Sep](https://drive.google.com/file/d/13xCp-pJRmbf4S-ve1gEpmCfDDsLn8Ops/view?usp=sharing)
 - [Viernes 23 Sep - Viewbinding vs Databinding](https://drive.google.com/file/d/1mGzv4TEcZkFtrW-dc19p2vgXdb9ZiTa2/view?usp=sharing)
 - 📺 [Viernes 23 Sep](https://drive.google.com/file/d/1Ekzdzpo4g4U5n8X2cIAl9zEOXzuLuEVL/view?usp=sharing)
 
 # Semana 5
 - [Martes 27 Sep - Kotlin coroutines I](https://drive.google.com/file/d/10AW3qPCgr5mJXm0mMrN81-DtpW-W5NVO/view?usp=sharing)
-- 📺 [Grabacion Martes 27 Sep]
+- 📺 [Grabacion Martes 27 Sep](https://drive.google.com/file/d/1SZ4-xE3-BREmKdwOwD7-SNEqMbQaOn7R/view?usp=sharing)
 - [Jueves 29 Sep - Kotlin coroutines II](https://drive.google.com/drive/u/0/folders/1cs9DVdj_okkXLvaBLPKrpo6BAPWjAN3t)
 - 📺 [Grabacion Jueves 29 Sep]
 - [Viernes 30 Sep - Kotlin coroutines III](https://drive.google.com/file/d/1TbWe8D-wFuHAlJsg1V5ZPoR0eH9hqlQg/view?usp=sharing)
